@@ -266,15 +266,29 @@ Arduino Uno communicates with graphics chip ( additional ATmega328 ) via I2C / T
 
 Basic interpreter eats practically the whole RAM memory, so we can't display more than 11 characters vertically.
 
-Video will be available soon...
+<a href="https://github.com/daveylib/ArdPC/blob/master/Photos/video.m4v" title="Download video of ArdPC">https://github.com/daveylib/ArdPC/blob/master/Photos/video.m4v</a><br/>
+You can download full video from the mentioned above link. Just click 'View Raw'.
 
-<h2>What you need?</h2>
+<h2>What you need to make it?</h2>
 
-Description will be available soon...
+<ul>
+  <li>Arduino board (ATmega328)</li><br/>
+  
+  <li>ATmega328 micro-controller</li>
+  <li>16 MHz clock crystal</li>
+  <li>2x 22 pF capacitors</li>
+  <li>10k ohm resistor</li><br/>
+  
+  <li>piezoelectric buzzer</li><br/>
+  
+  <li>VGA and PS/2 female connectors</li>
+  <li>2x 68 ohm resistors</li>
+  <li>3x 470 ohm resistors</li>
+</ul>
 
 <h2>Wiring</h2>
 
-Photos will be available soon...
+<img src="./Photos/ardpc_fritzing.png" alt="" />
 
 <h2>Photos</h2>
 
