@@ -283,7 +283,7 @@ You can download full video from the mentioned above link. Just click 'View Raw'
   
   <li>VGA and PS/2 female connectors</li>
   <li>2x 68 ohm resistors</li>
-  <li>3x 470 ohm resistors</li>
+  <li>3x 180 ohm resistors (mistake on Fritzing image)</li>
 </ul>
 
 <h2>Wiring</h2>
