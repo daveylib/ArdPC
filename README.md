@@ -264,7 +264,7 @@ ATmega328 micro-controller transmits pixel data using USART in SPI mode. It disp
 
 Arduino Uno communicates with graphics chip ( additional ATmega328 ) via I2C / TWI serial bus. ATmega328 is very busy, almost all it's time is spent refreshing the screen. Unfortunately it hasn't got a free time to get incoming data, that's why everytime when we change the buffer, screen glitches. Also we can't get 20 characters per line, but only 17.
 
-Basic interpreter eats practically the whole RAM memory, so we can't display more than 11 characters vertically.
+Basic interpreter eats practically the whole RAM memory, so we can't display more than 11 characters vertically.<br/><br/>
 
 <a href="https://github.com/daveylib/ArdPC/blob/master/Photos/video.m4v" title="Download video of ArdPC">https://github.com/daveylib/ArdPC/blob/master/Photos/video.m4v</a><br/>
 You can download full video from the mentioned above link. Just click 'View Raw'.
